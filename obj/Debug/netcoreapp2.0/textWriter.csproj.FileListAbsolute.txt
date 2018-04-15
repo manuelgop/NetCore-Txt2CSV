@@ -1,0 +1,10 @@
+/Users/apple/Documents/textWriter/bin/Debug/netcoreapp2.0/textWriter.deps.json
+/Users/apple/Documents/textWriter/bin/Debug/netcoreapp2.0/textWriter.runtimeconfig.json
+/Users/apple/Documents/textWriter/bin/Debug/netcoreapp2.0/textWriter.runtimeconfig.dev.json
+/Users/apple/Documents/textWriter/bin/Debug/netcoreapp2.0/textWriter.dll
+/Users/apple/Documents/textWriter/bin/Debug/netcoreapp2.0/textWriter.pdb
+/Users/apple/Documents/textWriter/obj/Debug/netcoreapp2.0/textWriter.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/textWriter/obj/Debug/netcoreapp2.0/textWriter.AssemblyInfoInputs.cache
+/Users/apple/Documents/textWriter/obj/Debug/netcoreapp2.0/textWriter.AssemblyInfo.cs
+/Users/apple/Documents/textWriter/obj/Debug/netcoreapp2.0/textWriter.dll
+/Users/apple/Documents/textWriter/obj/Debug/netcoreapp2.0/textWriter.pdb
